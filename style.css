@@ -125,3 +125,10 @@ body{
     margin: 20px auto;
 
 }
+
+.btn:hover {
+    border: 2px solid white;
+    background: none;
+    color: gray;
+    text-decoration: underline;
+}
